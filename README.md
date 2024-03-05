@@ -1,7 +1,7 @@
 # JustEat-assignment
 #
 ## Project Description
-This Command-Line Interface (CLI) application retrieves restaurant data from a particular postcode and displays the restaurnt's name, cuisne, star rating and address in the console.
+This Command-Line Interface (CLI) application retrieves restaurant data from a particular postcode and displays the restaurnt's name, cuisine, star rating and address in the console.
 
 #
 ## Installing and Running the Application
