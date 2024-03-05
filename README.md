@@ -26,4 +26,4 @@ This Command-Line Interface (CLI) application retrieves restaurant data from a p
 ## Potential Improvements
 - **Sorting:** Implement sorting function to allow users to sort restaurant results based on different points such as distance or alphabetical order.
 - **Filtering:** Include filtering function which allows users to filter restaurant results based on different standards such as cuisine type, price range, or dietary preferences.
-- **Dynamic Menu:** Design a interactive menu system within the CLI interface, which will allow users to move through different options and features more natutally.
+- **Dynamic Menu:** Design an interactive menu system within the CLI interface, which will allow users to move through different options and features more natutally.
